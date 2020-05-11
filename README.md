@@ -4,5 +4,6 @@ The notebook and Python files provided here, once completed, result in a simple 
 
 Please see the [README](https://github.com/udacity/sagemaker-deployment/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).
 
+
 ## Acknowledgment:
 Thank you [Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101) for this real world deployment project.
